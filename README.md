@@ -6,7 +6,4 @@ In this project I used different techniques for outlier detection which include:
 Finally, I visualized results of outlier detection models for two variables : “chol” ,” trestbps”.
 Link to dataset: https://www.kaggle.com/ronitf/heart-disease-uci
 #modified by Sana
-# added again
-# part2
-# test
-# test4
+
