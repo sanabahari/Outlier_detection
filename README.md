@@ -5,5 +5,5 @@ The purpose of this project is to detect the outliers in dataset, which adversel
 In this project I used different techniques for outlier detection which include: Local Outlier Factor (LOF), K Nearest Neighbor (KNN) , Angle-Based Outlier Detection (ABOD), Cluster Based Local Outlier Factor (CBLOF). 
 Finally, I visualized results of outlier detection models for two variables : “chol” ,” trestbps”.
 Link to dataset: https://www.kaggle.com/ronitf/heart-disease-uci
-#modified by Sana
+
 
